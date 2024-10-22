@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Java{
+
+	Scanner scan = new Scanner(System.in);
+
+	public static void main(String[] args){
+	System.out.prinln("Algo totalmente aleatorio, nao eh: ");
+	
+	String resp = scan.nextLine();	
+
+	}
+}
